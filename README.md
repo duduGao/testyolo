@@ -4,3 +4,4 @@
 - 代码源自[YOLO动态链接库的编译和使用_寒潭雁影](https://blog.csdn.net/weixinhum/article/details/81475548)
 - 编译工具VS2019
 - opencv 4.5
+- win10
